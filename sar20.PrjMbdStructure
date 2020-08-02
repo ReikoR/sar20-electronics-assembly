@@ -1,0 +1,8 @@
+Record=DiagramHierarchy|SourceDocument=sar20.MbsDoc|Kind=Multi-board Schematic Module|Designator=BB|Source=..\sar20-baseboard\sar20-baseboard.PrjPcb
+Record=SubProject|SourceDocument=sar20.MbsDoc|ProjectPath=..\sar20-baseboard\sar20-baseboard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=sar20.MbsDoc|Kind=Multi-board Schematic Module|Designator=MD3|Source=..\sar20-motor-driver\sar20-motor-driver.PrjPcb
+Record=SubProject|SourceDocument=sar20.MbsDoc|ProjectPath=..\sar20-motor-driver\sar20-motor-driver.PrjPcb
+Record=DiagramHierarchy|SourceDocument=sar20.MbsDoc|Kind=Multi-board Schematic Module|Designator=MD2|Source=..\sar20-motor-driver\sar20-motor-driver.PrjPcb
+Record=SubProject|SourceDocument=sar20.MbsDoc|ProjectPath=..\sar20-motor-driver\sar20-motor-driver.PrjPcb
+Record=DiagramHierarchy|SourceDocument=sar20.MbsDoc|Kind=Multi-board Schematic Module|Designator=MD1|Source=..\sar20-motor-driver\sar20-motor-driver.PrjPcb
+Record=SubProject|SourceDocument=sar20.MbsDoc|ProjectPath=..\sar20-motor-driver\sar20-motor-driver.PrjPcb
